@@ -16,7 +16,7 @@
 5. 韌體程式碼上傳 (請提供硬體間連結的程式碼)
 
 ### :memo: 參考範例
-- 使用Pull Request(PR)的方式上傳以`作品應用主題`為名稱的資料夾，再由原廠工程師協助確認後合併 ([參考步驟說明](https://www.google.com/?hl=zh_tw))
+- 使用Pull Request(PR)的方式上傳以`作品應用主題`為名稱的資料夾，再由原廠工程師協助確認後合併 ([參考步驟說明](https://drive.google.com/file/d/1lSw288On77Hw851oC-QbcNBYtmIySRrc/view))
 - 請看範例: [(範例)智能滅火器暨通知系統](https://github.com/AIoTcompetition/SmartLongCare/tree/main/(%E7%AF%84%E4%BE%8B)%E6%99%BA%E8%83%BD%E6%BB%85%E7%81%AB%E5%99%A8%E6%9A%A8%E9%80%9A%E7%9F%A5%E7%B3%BB%E7%B5%B1)
 
 ## :mailbox: 技術諮詢
@@ -27,5 +27,5 @@
 2. 問題說明及圖片
 
 ### :memo: 參考範例
-- 使用issue的方式發問 ([參考步驟說明](https://www.google.com/?hl=zh_tw))
+- 使用issue的方式發問 ([參考步驟說明](https://drive.google.com/file/d/1tuapxmil8xjTK1om40zvNRXfmqpbKuBO/view))
 - 請看範例: [(範例)請問有沒有人用breath成功測出數值呢？](https://github.com/AIoTcompetition/SmartLongCare/issues/2)
