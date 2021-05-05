@@ -6,7 +6,7 @@
 因此，我們希望能夠把同學們的實作經驗保留下來，讓未來有相同使用需求的同學們可以參考。
 
 ## :point_right: 分享模板說明
-請針對`智慧長照`作品應用主題，分享如何選用企業硬體、選用之後硬體串接程式碼如何設定。
+請針對`長照基地命題`作品應用主題，分享如何選用企業硬體、選用之後硬體串接程式碼如何設定。
 
 分享請包含以下內容
 1. 作品應用主題
@@ -28,4 +28,4 @@
 
 ### :memo: 參考範例
 - 使用issue的方式發問 ([參考步驟說明](https://www.google.com/?hl=zh_tw))
-- 請看範例: [(範例)請問有沒有人用breath成功測出數值呢？](https://github.com/AIoTcompetition/SmartLongCare/issues/1)
+- 請看範例: [(範例)請問有沒有人用breath成功測出數值呢？](https://github.com/AIoTcompetition/SmartLongCare/issues/2)
